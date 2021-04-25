@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+body {
+  height: 95vh;
+  width: 95;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  background: url(./img/deserto.jpg);
+  background-size: cover;
+  
+}
+
+.titulo {
+  color: rgb(0, 0, 0);
+  font-family: 'Permanent Marker', cursive;
+  width: 350px;
+  align-content: center;
+}
+
+h1 {
+  text-transform: uppercase ;
+}
