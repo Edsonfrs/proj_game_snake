@@ -21,7 +21,7 @@ Outra fonte de inspiração foram os filmes da franquia da década de 90 "Tremor
 
 # Protótipo
 
-Uma página funcional, mas não perfeita, deste projeto se encontra em: [Worm, o terror de Gobi](wormgame.fullstackvox.com)
+Uma página funcional, mas não perfeita, deste projeto se encontra em: [Worm, o terror de Gobi](http://wormgame.fullstackvox.com)
 
 
 ## Conquistas
